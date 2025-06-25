@@ -1,0 +1,8 @@
+Package: replqol
+Version: 0.0.1
+Title: REPL Quality of Life
+Description: Provides some utility functions for repl.
+Author: John Bonjour
+License: Unlicense
+Depends:
+    plotly, MASS, pracma, caracas
